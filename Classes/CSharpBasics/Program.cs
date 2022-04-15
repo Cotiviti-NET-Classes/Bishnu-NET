@@ -1,5 +1,6 @@
 ﻿using System;
+using LearningBasics;
 
-Console.WriteLine("Hello, World!");
+Console.Write("Hello World!");
 
-// Top level statements
+Basic b;
