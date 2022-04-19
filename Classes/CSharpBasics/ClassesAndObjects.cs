@@ -41,3 +41,12 @@ interface ILivingThings
 {
 
 }
+
+
+
+enum WOrkDays
+{
+    Sunday,
+    Monday,
+    TuesDay
+}
