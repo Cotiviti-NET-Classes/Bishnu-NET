@@ -1,6 +1,6 @@
 # Let's do SOMETHING REAL!!! 
 
-### Write a program to read given [text file](https://github.com/binbsr/.NETClassesCotiviti/blob/master/BishnuRawal/Homework/Nov22_Excercise/Olympics_Athelete_Events.txt) in this folder and parse this file to make a in-memory list of players. For, you have to create new class named Player or Athelete or whatever :) with data columns as properties. Load all rows into `List<Player>` (Individual row in a file is a player, an object of class Player). For reference, data column description is given below:
+### Write a program to read given [text file](https://github.com/Cotiviti-NET-Classes/Bishnu-NET/blob/main/Assignments/Assignment5-data.csv) in this folder and parse this file to make a in-memory list of players. For, you have to create new class named Player or Athelete or whatever :) with data columns as properties. Load all rows into `List<Player>` (Individual row in a file is a player, an object of class Player). For reference, data column description is given below:
 
 | Column | Description|
 |--------|------------|
